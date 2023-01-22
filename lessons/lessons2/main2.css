@@ -1,0 +1,54 @@
+
+body{
+    margin: 0;
+}
+.father{
+    background: chartreuse;
+    height: 800px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.first{
+    background: blue;
+    width: 600px;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+}
+.second {
+    background: coral;
+    width: 600px;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.three {
+    background: blue;
+    width: 600px;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+}
+.box:nth-child(2) {
+    width: 200px;
+    height: 100px;
+
+}
+.box:nth-child(3) {
+    width: 200px;
+    height: 100px;
+}
+.box:nth-child(4){
+    width: 200px;
+    height: 100px;
+}
+
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
