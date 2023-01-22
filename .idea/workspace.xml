@@ -5,9 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb5571a3-1e07-4ea7-abf4-a4a52f56cb4e" name="Changes" comment="save changes">
-      <change afterPath="$PROJECT_DIR$/lesson1/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/images/Maggy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/images/Marge.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/training/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/training/training.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Bart.png" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/images/Bart.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Homer.png" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/images/Homer.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Lisa.png" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/images/Lisa.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/family.png" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/images/family.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/lesson1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/lesson1/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +25,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -36,20 +44,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\LapTopUSA\IdeaProjects\dec-2022-html\lessons" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -58,7 +71,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674035147624</updated>
-      <workItem from="1674035148861" duration="12510000" />
+      <workItem from="1674035148861" duration="13773000" />
+      <workItem from="1674212221340" duration="6851000" />
+      <workItem from="1674242058372" duration="10664000" />
+      <workItem from="1674292413403" duration="611000" />
     </task>
     <task id="LOCAL-00001" summary="save changes">
       <created>1674036338596</created>
@@ -109,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674044608920</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="save changes">
+      <created>1674048625988</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1674048625988</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

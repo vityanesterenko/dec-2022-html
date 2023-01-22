@@ -1,0 +1,36 @@
+img {
+    width: 200px;
+    display: block;
+    border: 2px solid chocolate;
+    border-radius: 20px;
+    margin: 0 auto;
+}
+p{
+    text-align: justify;
+    background: blue;
+    box-sizing: border-box;
+    padding: 10px;
+    /*border: 30px solid coral;*/
+    /*margin: 20px;!* t,r,b,l*!*/
+    /*margin: 80px 10px 80px 70px;*/
+    margin-top: 20px;
+    /*font-size: 16px;*/
+    /*width: 30px;*/
+    /*height: 1em;*/
+}
+html,body {
+    scroll-behavior: smooth;
+    margin: 0;
+}
+a:visited {
+    color: black;
+}
+div {
+    width: 600px;
+}
+h2{
+    background: coral;
+    width: 50%;
+    margin-top: 20%;
+}
+
