@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+}
+.father{
+    background: aliceblue;
+    height:600px ;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.OneBlock{
+    height: 400px;
+    width: 300px;
+    border: 5px solid black;
+}
+.TwoBlock{
+    height: 400px;
+    width: 300px;
+    border: 5px solid black;
+}
+.ThreeBlock{
+    height: 400px;
+    width: 300px;
+    border: 5px solid black;
+}
+.title1{
+    display: flex;
+    justify-content: center;
+}
+.text1{
+    font-size: 30px;
+    display: flex;
+    padding: 20px;
+
+}
+.button1{
+    width: 150px;
+    border: 3px solid black;
+    display: flex;
+    justify-content: center;
+    margin-left: 70px;
+}
