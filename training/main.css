@@ -1,36 +1,68 @@
-img {
-    width: 200px;
-    display: block;
-    border: 2px solid chocolate;
-    border-radius: 20px;
-    margin: 0 auto;
+
+.father{
+    height: 800px;
+    background: chartreuse;
+    margin: 20px 20px;
+    /*display: flex;*/
+    /*justify-content: center;*/
+    /*align-items: center;*/
 }
-p{
-    text-align: justify;
-    background: blue;
-    box-sizing: border-box;
-    padding: 10px;
-    /*border: 30px solid coral;*/
-    /*margin: 20px;!* t,r,b,l*!*/
-    /*margin: 80px 10px 80px 70px;*/
-    margin-top: 20px;
-    /*font-size: 16px;*/
-    /*width: 30px;*/
-    /*height: 1em;*/
+.mother{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /*border: 3px solid rebeccapurple;*/
+
 }
-html,body {
-    scroll-behavior: smooth;
-    margin: 0;
+.size{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
-a:visited {
-    color: black;
+.size>a{
+    border:2px solid red;
+    font-size: 50px;
 }
-div {
-    width: 600px;
+.onebox{
+    height: 500px;
+    width: 400px;
+    border: 2px solid black;
 }
-h2{
-    background: coral;
-    width: 50%;
-    margin-top: 20%;
+.twobox {
+    height: 500px;
+    width: 400px;
+    border: 2px solid black;
+}
+.threebox {
+    height: 500px;
+    width: 400px;
+    border: 2px solid black;
+}
+.fourbox{
+    height: 500px;
+    width: 400px;
+    border: 2px solid black;
+}
+.fivebox{
+    height: 500px;
+    width: 400px;
+    border: 2px solid black;
+}
+.title{
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+    margin-top: 70px;
+}
+.text1{
+    margin: 20px;
+    font-size: 20px;
+    display: flex;
+}
+.button1>a{
+  justify-content: center;
+    border: 2px solid black;
+    display: flex;
+    margin:30px 30px;
 }
 

@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb5571a3-1e07-4ea7-abf4-a4a52f56cb4e" name="Changes" comment="save changes">
-      <change afterPath="$PROJECT_DIR$/lessons/lesson2-2/flex2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons/lesson2-2/index2-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/lesson3/index3-1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/lesson3/lesson3-1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lessons/lessons2/main2.css" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/lessons2/main2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/lesson2-2/flex2.css" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/lesson2-2/flex2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/lesson2-2/index2-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/lesson2-2/index2-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/training/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training.html" beforeDir="false" afterPath="$PROJECT_DIR$/training/training.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +71,8 @@
       <workItem from="1674212221340" duration="6851000" />
       <workItem from="1674242058372" duration="10664000" />
       <workItem from="1674292413403" duration="22679000" />
-      <workItem from="1674462254179" duration="12857000" />
+      <workItem from="1674462254179" duration="22282000" />
+      <workItem from="1674588538596" duration="7089000" />
     </task>
     <task id="LOCAL-00001" summary="save changes">
       <created>1674036338596</created>
@@ -140,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674428961731</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="save changes">
+      <created>1674475529267</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1674475529267</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

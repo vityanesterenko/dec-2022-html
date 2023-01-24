@@ -1,0 +1,61 @@
+body{
+    margin: 0;
+}
+.father{
+    height: 600px;
+    width: 900px;
+}
+div.mainblock{
+    height: 600px;
+    width: 900px;
+    background: darkgrey;
+    position: absolute;
+}
+div.twoblock{
+    height: 400px;
+    width: 900px;
+    background: black;
+    position: relative;
+    top: 100px;
+}
+div.threeblock{
+    height: 50PX;
+    width: 100px;
+    background: black;
+    position: absolute;
+    top: 25px;
+    left: 30px;
+    border-radius: 10px;
+}
+.hei200{
+    height: 200px;
+}
+.wid300{
+    width: 200px;
+}
+.bacgrblue{
+    background: blue;
+}
+.borrad10{
+    border-radius: 10px;
+}
+.fourbox{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 10px;
+    bottom: 50px;
+}
+.fa-bars{
+font-size: 50px;
+    position: relative;
+    bottom: 575px;
+    left: 750px;
+}
+.fa-magnifying-glass{
+font-size: 50px;
+    position: relative;
+    bottom: 575px;
+    left:650px ;
+}
