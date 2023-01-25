@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.conteiner{
+    margin: 0;
+    width: 100%;
+    height: 80vh;
+    background: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card{
+    width:30%;
+    height: 75%;
+    border: 3px solid black;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: center;
+}
+p{
+    font-size: 20px;
+    width: 70%;
+    text-align: center;
+}
+.a{
+    border: 2px solid black;
+    width: 40%;
+    text-align: center;
+    font-size: large;
+}
+.cicle{
+    width: 60px;
+    height: 60px;
+    border: 2px solid black;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: -90%;
+    background: white;
+}

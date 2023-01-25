@@ -9,7 +9,7 @@ div.mainblock{
     height: 600px;
     width: 900px;
     background: darkgrey;
-    position: absolute;
+    position:absolute;
 }
 div.twoblock{
     height: 400px;
