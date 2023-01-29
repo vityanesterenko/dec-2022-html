@@ -1,0 +1,43 @@
+.main {
+    width: 800px;
+    height: 600px;
+    background: white;
+    border: 2px solid black;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.one{
+    width: 95%;
+    height: 45%;
+    background: darkgrey;
+    border-radius: 8px;
+}
+.second{
+    width: 95%;
+    height: 45%;
+    display: flex;
+    justify-content: space-between;
+    background: white;
+}
+.one, .b, .c{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.b{
+    width: 60%;
+    height: 100%;
+    background: darkgrey;
+    border-radius: 8px;
+}
+.c{
+    width: 37%;
+    height: 100%;
+    background: darkgrey;
+    border-radius: 8px;
+}
+
+
