@@ -1,0 +1,57 @@
+.main{
+    width: 900px;
+    height: 600px;
+    border: 3px solid black;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.a{
+    width: 96%;
+    height: 30%;
+    background: darkgrey;
+    border-radius: 5px;
+}
+.blok1{
+    width: 96%;
+    height: 60%;
+    display: flex;
+    justify-content: space-between;
+}
+.blok2{
+    width: 73%;
+    height: 100%;
+}
+.f{
+    width: 25%;
+    height: 100%;
+    background: darkgrey;
+    border-radius: 5px;
+}
+.b{
+    width: 100%;
+    height: 50%;
+    background: darkgrey;
+    border-radius: 5px;
+}
+.blok3{
+    width: 100%;
+    height: 50%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+}
+.c, .d, .e{
+    width: 31%;
+    height: 90%;
+    background: darkgrey;
+    border-radius: 5px;
+}
+.a, .b, .c, .d, .e, .f{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
