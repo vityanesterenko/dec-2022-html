@@ -1,68 +1,10 @@
-
-.father{
-    height: 800px;
-    background: chartreuse;
-    margin: 20px 20px;
-    /*display: flex;*/
-    /*justify-content: center;*/
-    /*align-items: center;*/
+body{
+    margin: 0;
+    /*padding: 0;*/
 }
-.mother{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    /*border: 3px solid rebeccapurple;*/
+.conteiner{
+    width: 100%;
+    height: 100vh;
+    background: aqua;
 
 }
-.size{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-.size>a{
-    border:2px solid red;
-    font-size: 50px;
-}
-.onebox{
-    height: 500px;
-    width: 400px;
-    border: 2px solid black;
-}
-.twobox {
-    height: 500px;
-    width: 400px;
-    border: 2px solid black;
-}
-.threebox {
-    height: 500px;
-    width: 400px;
-    border: 2px solid black;
-}
-.fourbox{
-    height: 500px;
-    width: 400px;
-    border: 2px solid black;
-}
-.fivebox{
-    height: 500px;
-    width: 400px;
-    border: 2px solid black;
-}
-.title{
-    display: flex;
-    justify-content: center;
-    font-size: 40px;
-    margin-top: 70px;
-}
-.text1{
-    margin: 20px;
-    font-size: 20px;
-    display: flex;
-}
-.button1>a{
-  justify-content: center;
-    border: 2px solid black;
-    display: flex;
-    margin:30px 30px;
-}
-
